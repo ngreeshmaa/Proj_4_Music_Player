@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="music_image">music image</string>
+    <string name="nowplaying_activity">now playing</string>
+    <string name="dummy_image">dummy image</string>
+    <string name="pause_image">pause image</string>
+    <string name="back_image">back image</string>
+    <string name="nest_image">nest image</string>
+</resources>
